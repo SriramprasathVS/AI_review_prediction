@@ -67,8 +67,9 @@ Contributions are welcome! To contribute, please fork the repository, make chang
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-For questions or concerns, please contact [Sriram prasath V S](mailto:your-sriramprasath92@gmail.com).
+For questions or concerns, please contact [Sriram prasath V S](mailto:sriramprasath92@gmail.com).
 
 ## 💖 Thanks Message
 This project was made possible by the contributions of many individuals. Thank you to everyone who has contributed to this project! 
+
 
